@@ -1,0 +1,16 @@
+{
+  "name": "mini-Routing",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jazun33/mini-Routing",
+  "authors": [
+    "Jason Marlow <jasonmarlow@gmail.com>"
+  ],
+  "description": "Testing out the routing system in Angular",
+  "main": "index.html",
+  "license": "Apache 2",
+  "dependencies": {
+    "angular": "~1.3.15",
+    "angular-route": "~1.3.15",
+    "bootstrap": "~3.3.4"
+  }
+}
